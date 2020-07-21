@@ -1,0 +1,433 @@
+body{
+  margin:0;
+  padding: 0;
+  background: #eeeeee;
+}
+
+
+.navbar{
+  background: rgb(116, 184, 127);
+}
+
+.navbar-brand{
+  margin-left: 80px;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+.navbar-brand-subtitle{
+  font-size: 0.8rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.navbar-nav{
+  margin-left: 75px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.dropdown-menu{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.dropdown-menu:hover{
+  background-color: #000000;
+}
+
+.container{
+  padding:0;
+  margin:10px;;
+}
+
+/* Aside Section1 */
+.aside-section1{
+  margin:0;
+  padding-top: 20px;
+  padding-left: 85px;
+}
+
+.main-image{
+  width: 1200px;
+  height: 540px;
+}
+
+.upper_header{
+  background: rgb(116, 184, 127);
+  font-family:"Open Sans", sans-serif;
+  padding: 20px 0 15px 22px;
+  font-stretch: semi-condensed;
+}
+
+
+.side-header1{
+  background: rgb(116, 184, 127);
+  font-family:"Open Sans", sans-serif;
+  padding: 20px 0 15px 22px;
+  font-stretch: semi-condensed;
+  margin-top: 20px;
+}
+
+.new{
+  background: skyblue;
+}
+
+.social-item-content{
+  padding-top: 13px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding-right: 0px;
+}
+
+.social-following-chart .col-lg-8{
+  padding-left: 5px; 
+}
+
+.s-icon{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #ffffff;
+}
+
+.aside-section{
+  padding-right: 100px;
+}
+
+
+.social-following-chart{
+  background: #ffffff;
+  padding: 3px 32px ;
+  margin-top: 15px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.aside-catalog{
+  padding-bottom: 16px;
+}
+
+.aside-image1{
+  width: 363px;
+  height: 200px;
+  margin: 0;
+  padding:0;
+}
+
+.aside-catalog-content{
+  background:#000000;
+  text-align:center;
+  padding: 18px 48px;
+}
+
+.catalog-content-head{
+  padding: 5px;
+}
+
+.contentbox-on-image{
+  width: 690px;
+  height: 246px;
+  top: 415px;
+  left: 115px;
+  box-shadow: 16px 19px rgb(116, 184, 127);
+  position: absolute;
+  background: #ffffff;
+  text-align: center;
+}
+
+.sec-1{
+  position: relative;
+}
+
+.article-box-image{
+  padding: 30px 85px 5px 85px;
+}
+
+.article-box-link{
+  padding-bottom: 10px;
+  text-decoration: underline;
+}
+
+a{
+  color: rgb(116, 184, 127);
+  font-weight: lighter;
+}
+
+a:hover{
+  color: rgb(116, 184, 127);
+}
+
+.article-box-header{
+  font-weight: bold;
+  padding:0 20px;
+}
+
+.article-box-content{
+  color: rgb(167, 167, 167);
+  padding-top: 6px;
+  font-weight:400;
+  font-size: 0.88rem;
+}
+
+.article-box-footer{
+  color: rgb(167, 167, 167);
+  font-weight: normal;
+  padding-top: 20px;
+  font-size: 0.9rem;
+}
+
+.fa-clock{
+  color: rgb(167, 167, 167);
+  padding-right: 4px;
+}
+
+.card-section-1{
+  padding-top: 150px;
+  margin: 0;
+}
+
+.card{
+  border-radius: 0;
+  border: 0;
+}
+
+.sport-card{
+  padding: 10px;
+}
+
+.card-image{
+  border-radius: 0;
+}
+
+.card-link{
+  padding:15px 0 0 20px;
+  text-decoration: underline;
+  font-size: 0.95rem;
+}
+
+.card-link:hover{
+  text-decoration: underline;
+  font-size: 0.95rem;
+}
+
+.card-body{
+  padding: 10px 20px 0 20px;
+}
+
+.card-title{
+  font-weight: bold;
+  font-size: 15px;
+  height: 55px;
+}
+
+.card-box-content{
+  color: rgb(167, 167, 167);
+  font-weight:400;
+  font-size: 0.88rem;
+  height: 65px;
+}
+
+.dropdown-divider{
+  padding-top: 13px;
+  margin:0;
+}
+
+.card-footer-ls{
+  color: rgb(167, 167, 167);
+  font-size: 0.88rem;
+  display: inline-block;
+  text-align: left;
+}
+
+.card-footer-rs{
+  color: rgb(167, 167, 167);
+  font-size: 0.88rem;
+  display: inline-block;
+  margin: 0;
+  padding-left: 40px;
+}
+
+.sec-2{
+  padding: 0;
+  margin:0;
+}
+
+.sec-2 .upper_header{
+  margin:1px 0 10px 0;
+}
+
+.sec-2 .contentbox-on-image{
+  top: 1600px;
+}
+
+.row{
+  margin: 0;
+}
+
+.first-card{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.second-card{
+  padding-left: 5px;
+}
+
+.third-card{
+  padding-right: 0;
+}
+
+.card-section-2{
+  margin: 140px 0 0 0;
+}
+
+.card-section-2 .card-box-content{
+  height: 100px;
+  padding-bottom: 10px;
+}
+/* Football Section  or Sec-3*/
+
+.football-news-image{
+  margin: 0;
+  padding: 0;
+  width: 450px;
+}
+
+.football-news-content{
+  margin: 0;
+  padding: 0;
+  /* width: 413.06px;
+  height: 235.200px; */
+}
+
+.news-card{
+  background: #ffffff;
+}
+
+.news-card .card-title{
+  padding-top: 20px;
+}
+
+.news-card .card-text{
+  margin-bottom: 50px;
+}
+
+.news-card .card-footer-rs{
+  padding-left: 190px;
+}
+
+.news-card{
+  margin: 15px 0;
+}
+
+/* Aside Quizzes Section */
+
+.quizzes-section .side-header1{
+  margin-top: 0;
+}
+
+.quizzes-catalog .card .card-title{
+  height: 75px;
+}
+
+.quizzes-catalog .card{
+  margin-bottom: 15px;
+}
+
+.footer-sportbible{
+  background-color: rgb(116, 184, 127);
+  text-align: center;
+  margin-top: 20px;
+}
+
+footer .divider{
+  border-style: solid;
+  border-top-width:0;
+  border-bottom-width: 1px;
+  border-color: #ffffff;
+  margin: 5px 70px 10px 70px;
+
+}
+
+.footer-icon{
+  font-size: 1.5rem;
+  line-height: 1.15rem;
+  display: inline-block;
+  padding:23px 21px 50px ;
+  color: #ffffff;
+}
+
+.end-footer{
+  background: rgb(84, 165, 97);
+  padding: 15px;
+}
+
+.end-footer a{
+  text-decoration: none;
+  color: #ffffff;
+  margin:10px;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+/* Submit Content Button */
+
+footer .btn{
+  margin:0 0 20px 0;
+}
+.btn-box{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.btn {
+  /* -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: rgb(116, 184, 127) ;
+  font-size: 21px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 3px;
+  text-decoration: none;
+  font-weight:bold; */
+
+  background-color: rgb(255, 255, 255);
+    color: rgb(116, 184, 127);
+    font-size: 1.25rem;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: bold;
+    letter-spacing: 0.12ch;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    padding: 3px 20px;
+}
+
+.btn:hover {
+  background: rgb(116, 184, 127) ;
+  border: solid #ffffff 3px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* Media Query */
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .contentbox-on-image{
+  }
+  }
